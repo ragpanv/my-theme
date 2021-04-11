@@ -1,0 +1,21 @@
+{
+    "name": "vs-theme-dark",
+    "displayName": "vs theme Dark",
+    "description": "new theme for vscode",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "VS theme Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/VS theme Dark-color-theme.json"
+            }
+        ]
+    }
+}
