@@ -11,3 +11,10 @@ You can author your README using Visual Studio Code.  Here are some useful edito
 * [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 
 **Enjoy!**
+## vscode welcome page
+<img src="https://github.com/ragpanv/my-theme/blob/main/screenshots/theme-home.jpg?raw=true " width="500" height="400">
+
+
+## vscode navigation bar
+<img src="https://github.com/ragpanv/my-theme/blob/main/screenshots/theme-nav.jpg?raw=true " width="500" height="400">
+
